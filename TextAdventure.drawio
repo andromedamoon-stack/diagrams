@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T03:44:15.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="u0RrUJaD4ljcD5odprd1" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T03:46:29.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9k4u8CkC1iZyxiivQq4A" version="17.0.0" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1211" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -370,6 +370,12 @@
             <mxPoint x="620" y="350" as="sourcePoint" />
             <mxPoint x="670" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3-9XB3UlxTxE3NfFyeRO-95" value="Corrupt Dangerous Experiment" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-510" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3-9XB3UlxTxE3NfFyeRO-97" value="Basic story: You are stuck in a lab with a crazy scientist and his experiments. You must escape by choosing the correct path out of the lab.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-370" width="330" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
